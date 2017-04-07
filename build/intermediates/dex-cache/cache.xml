@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.android/build-cache/e92537913d94db89d4a50c430e122f23ced9ae15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca096d8c3309b4ee44092bd7c1a3958ffc04646c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.android/build-cache/507031d22b201e51b7a4bbecf48479d739b6a627/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dfe44a43851bcb23480e5794d48ea703fd6d8b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.android/build-cache/507031d22b201e51b7a4bbecf48479d739b6a627/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes_5dfe44a43851bcb23480e5794d48ea703fd6d8b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.android/build-cache/b90a33cdd86b5b52bb83fbb15cfced7853992d23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a482d2a9ffcce6107498190834b1e636ad07dae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_9b400e92641ad9d62b362108f987c6c1993fbbeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_9b400e92641ad9d62b362108f987c6c1993fbbeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.android/build-cache/7bd0633620be34b753e23d5c81c78b4afcc27d51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes_3fe2066497f979b05c0d8bf384e47e150a99b4ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.gradle/caches/modules-2/files-2.1/net.objecthunter/exp4j/0.4.4/31fc16920f12de42b8605fe33e6036786626fe11/exp4j-0.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31fc16920f12de42b8605fe33e6036786626fe11">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/exp4j-0.4.4_09aa933240bbee0fd99f9d01ab928e5d9fb8176d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.gradle/caches/modules-2/files-2.1/net.objecthunter/exp4j/0.4.4/31fc16920f12de42b8605fe33e6036786626fe11/exp4j-0.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31fc16920f12de42b8605fe33e6036786626fe11">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/exp4j-0.4.4_09aa933240bbee0fd99f9d01ab928e5d9fb8176d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.android/build-cache/953d80499e6102f5097235554f6eb116892f7b74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7847949e707cca2ccf889c9483539e1223647fbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.android/build-cache/b90a33cdd86b5b52bb83fbb15cfced7853992d23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes_8a482d2a9ffcce6107498190834b1e636ad07dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.android/build-cache/953d80499e6102f5097235554f6eb116892f7b74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes_7847949e707cca2ccf889c9483539e1223647fbc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.android/build-cache/7bd0633620be34b753e23d5c81c78b4afcc27d51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fe2066497f979b05c0d8bf384e47e150a99b4ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.android/build-cache/76c22ff7558411f4c8a63c179afc16a8e6353435/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes_5be964bb58bab1a65c7031364e13e9ecac7f0a7e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8707725d56f1744119a5109f7e623e8c61a43113">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d9eb5cfbb80b4f7a03cba4238a5d2a7425f3077/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.android/build-cache/76c22ff7558411f4c8a63c179afc16a8e6353435/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5be964bb58bab1a65c7031364e13e9ecac7f0a7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c77c0c4cbca97b9e7969f9be1c8622b370096f9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.android/build-cache/7f5ef81a4886f508a3441ae205acb759ca023c62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes_fcafa16505cdc648aa5f9f6382e8570c33d89230.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.android/build-cache/9d9b885a30344015e1417936b50fe09b9d8d399e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_231ecbac76c63ad847ba1de6338be10825e9574e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.android/build-cache/7f5ef81a4886f508a3441ae205acb759ca023c62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcafa16505cdc648aa5f9f6382e8570c33d89230/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.android/build-cache/9d9b885a30344015e1417936b50fe09b9d8d399e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes_231ecbac76c63ad847ba1de6338be10825e9574e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/YiHui26/.android/build-cache/7ad13122f4405c6a0161123c52ab23a5df452cb0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1cb8ead6438957067253b80b025e1d18da2778b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.android/build-cache/7ad13122f4405c6a0161123c52ab23a5df452cb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes_d1cb8ead6438957067253b80b025e1d18da2778b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YiHui26/.android/build-cache/e92537913d94db89d4a50c430e122f23ced9ae15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/YiHui26/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes_ca096d8c3309b4ee44092bd7c1a3958ffc04646c.jar" />
+    </item>
+
+</items>
